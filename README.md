@@ -1,6 +1,5 @@
 Hi, I’m Kishan Mistry (@Kishanm01), currently a junior at Kennesaw State University majoring in Software Engineering.
-- 👀 I’m interested in taking part in developing software through the Software Development Life Cycle.
-- 🌱 I’m currently learning data structures using c++ and Software Requirements phase of SDLC.
+
 - 📫 How to reach me ... send me a message on LinkedIn @ ln/KishanRMistry
 
 <!---
