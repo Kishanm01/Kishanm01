@@ -1,4 +1,4 @@
-Hi, I’m Kishan Mistry (@Kishanm01), currently a junior at Kennesaw State University majoring in Software Engineering.
+Hi, I’m Kishan Mistry (@Kishanm01).
 
 - 📫 How to reach me ... send me a message on LinkedIn @ ln/KishanRMistry
 
