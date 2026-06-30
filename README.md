@@ -33,14 +33,6 @@ I'm a driven developer committed to continuous learning and mastering solid prog
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishanm01&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishanm01&layout=compact&theme=radical)
-
----
-
 ## 🎯 Featured Projects
 
 ### 💰 LedgerLite
@@ -53,7 +45,7 @@ A comprehensive web-based financial management application that brings accountin
 - 🔍 Advanced ratio analysis with out-of-range item highlighting
 - 🌐 Fully web-based and accessible from anywhere
 
-**Tech Stack:** Python, Java, SQL, AWS/Azure, Firebase  
+**Tech Stack:** TypeScript, SQL, REACT MUI, Docker, Agile Methodology (safe) 
 **Repository:** [@rfedoruk/LedgerLite](https://github.com/rfedoruk/LedgerLite))
 
 ---
@@ -69,7 +61,7 @@ A secure web application revolutionizing healthcare communication by connecting 
 - 👨‍⚕️ Easy access to care providers and medical records
 - 📱 Mobile-friendly web application
 
-**Tech Stack:** Python, Java, SQL, AWS/Azure, Firebase  
+**Tech Stack:** JavaScript SQL, Firebase  
 **Repository:** [@Amram15/Health-E-Patient](https://github.com/Amram15/Health-E-Patient)
 
 ---
