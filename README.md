@@ -54,7 +54,7 @@ A comprehensive web-based financial management application that brings accountin
 - 🌐 Fully web-based and accessible from anywhere
 
 **Tech Stack:** Python, Java, SQL, AWS/Azure, Firebase  
-**Repository:** [@Kishanm01/LedgerLite](https://github.com/Kishanm01/LedgerLite)
+**Repository:** [@rfedoruk/LedgerLite](https://github.com/rfedoruk/LedgerLite))
 
 ---
 
@@ -70,7 +70,7 @@ A secure web application revolutionizing healthcare communication by connecting 
 - 📱 Mobile-friendly web application
 
 **Tech Stack:** Python, Java, SQL, AWS/Azure, Firebase  
-**Repository:** [@Kishanm01/Health-E-Patient](https://github.com/Kishanm01/Health-E-Patient)
+**Repository:** [@Amram15/Health-E-Patient](https://github.com/Amram15/Health-E-Patient)
 
 ---
 
